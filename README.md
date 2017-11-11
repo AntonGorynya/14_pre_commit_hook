@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-Add file pre-commit
+this script solves the quadratic equations
 
 # How to Install
 
