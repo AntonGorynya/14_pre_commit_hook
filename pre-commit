@@ -2,6 +2,6 @@
 # To enable this hook, rename this file to "pre-commit" and move to .git/hooks dir
 
 testRun='./tests.py'
-python='/c/Users/g84086619/AppData/Local/Programs/Python/Python36/python.exe'
+python=`which python`
 runString=$python' '$testRun
 exec $runString
