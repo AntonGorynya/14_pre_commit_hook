@@ -4,7 +4,12 @@ this script solves the quadratic equations
 
 # How to Install
 
-copy pre-commit file to your .git/hooks folder
+Run next command in bash
+```bash
+cp pre-commit .git/hooks folder/
+
+```
+
 
 # Quickstart
 
